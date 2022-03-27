@@ -1,8 +1,7 @@
 """
 # Description: A program that displays the items and their prices listed on K-pop Subsushi's menu, a restaurant Kingston. 
 #              The user can choose which item they want.
-# @Author:  Daniel Dinari
-# @Student Number: 20288573
+# @Author:  Daniel D.
 # @Date:  Sept 17th, 2021
 """
 
