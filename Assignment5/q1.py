@@ -1,7 +1,6 @@
 """
 # Description: a program for processing grades of student in a class. Including displaying, showing avg, adding marks etc...
-# @Author:  Daniel Dinari
-# @Student Number: 20288573
+# @Author:  Daniel D.
 # @Date:  Oct 22nd, 2021
 """
 
